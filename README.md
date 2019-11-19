@@ -25,7 +25,7 @@ This repo supports Linux and Python installation via Anaconda.
 CUDA_VISIBLE_DEVICES=0 python main.py model DistMultDecompress dataset FB15k-237 lr  0.001 hidden_drop 0.2 epochs 30 process False
 
 ```
-will run a ConvE model on FB15k-237 with model DistMultDecompress.
+will run a  model DistMultDecompress on FB15k-237.
 More models are listed in model.py
 
 
