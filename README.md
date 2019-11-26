@@ -28,7 +28,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py model DistMultDecompress dataset FB15k-237
 will run a  model DistMultDecompress on FB15k-237.
 More models are listed in model.py
 
-
+<strong>ToDo: right now, only models on FB15k-237 are uploaded and those on WN18RR will uploaded soon.<strong>
 
 ## Acknowledgement
 
